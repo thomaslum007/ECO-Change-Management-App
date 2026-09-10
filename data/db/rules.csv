@@ -1,5 +1,0 @@
-ClassificationType,Keywords,Threshold,Description,Active
-Payslip,"salary,payslip,earnings,net pay",80,Monthly salary slip,true
-Employment Letter,"offer letter,employment contract",75,Official employment documents,true
-Medical,"clinic,hospital,medical certificate",70,Medical records and MCs,true
-Performance Review,"appraisal,performance review",75,Annual or quarterly reviews,true
